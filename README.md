@@ -1,4 +1,4 @@
-### Hi, I'm Vespeng 👋 
+## Hi, I'm Vespeng 👋 
 
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=1000&color=00ADD8&center=false&vCenter=true&width=380&lines=Backend+Engineer;Cloud-Native+Explorer;Serverless+%26+Edge+Developer;%23BuildInPublic" alt="Typing SVG" />
@@ -24,7 +24,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cloudflare,vercel,tencent" />
+    <img src="https://skillicons.dev/icons?i=cloudflare,vercel" />
   </a>
 </p>
 
@@ -43,5 +43,5 @@
 </p>
 
 <p align="left">
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=vespeng&theme=tokyo-night&bg_color=00000000&hide_border=true" alt="Vespeng's GitHub Activity Graph" width="60%" />
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=vespeng&theme=tokyo-night&bg_color=00000000&hide_border=true" alt="Vespeng's GitHub Activity Graph" width="65%" />
 </p>
