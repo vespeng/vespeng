@@ -43,5 +43,5 @@
 </p>
 
 <p align="left">
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=vespeng&theme=tokyo-night&bg_color=00000000&hide_border=true" alt="Vespeng's GitHub Activity Graph" width="65%" />
+ <img src="https://github-readme-activity-graph.vercel.app/graph?username=vespeng&theme=tokyo-night&bg_color=00000000&hide_border=true" alt="Vespeng's GitHub Activity Graph" width="78%" />
 </p>
