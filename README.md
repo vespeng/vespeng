@@ -7,8 +7,8 @@
 ### 🚀 About Me
 
 * A specialized **Backend Engineer** focusing on **Go**, **Cloud-Native**, **Serverless**, and **Edge Computing**, actively exploring technical architecture and engineering best practices.
-* 🌐 Website: **[https://vespeng.com](https://vespeng.com)**
-* 📮 Email: **hi@vespeng.com**
+* 🌐 Website: [https://vespeng.com](https://vespeng.com)
+* 📮 Email: [hi@vespeng.com](mailto:hi@vespeng.com)
 
 ### 🛠️ Core Tech Stack
 
