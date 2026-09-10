@@ -12,27 +12,27 @@
 
 ### 🛠️ Core Tech Stack
 
-#### 🛡️ Languages & Cloud-Native
+#### Languages
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,py,java,ts,docker,githubactions" />
+    <img src="https://skillicons.dev/icons?i=go,py,java,ts" />
   </a>
 </p>
 
-#### ⚡ Edge & Serverless
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cloudflare,vercel" />
-  </a>
-</p>
-
-#### 💾 Databases & Storage
+#### Databases
 
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis" />
+  </a>
+</p>
+
+#### Cloud & Edge
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,cloudflare,vercel,githubactions" />
   </a>
 </p>
 
