@@ -1,7 +1,7 @@
 ## Hi, I'm Vespeng 👋 
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=3000&pause=1000&color=00ADD8&center=false&vCenter=true&width=380&lines=Backend+Engineer;Cloud-Native+Explorer;Serverless+%26+Edge+Developer;%23BuildInPublic" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2800&pause=900&color=00ADD8&center=false&vCenter=true&width=460&lines=Backend+Engineer;Go+%C2%B7+Cloud-Native+%C2%B7+Serverless;Building+at+the+Edge;%23BuildInPublic" alt="Typing SVG" />
 </p>
 
 ### 🚀 About Me
@@ -10,29 +10,21 @@
 * 🌐 Website: [https://vespeng.com](https://vespeng.com)
 * 📮 Email: [hi@vespeng.com](mailto:hi@vespeng.com)
 
-### 🛠️ Core Tech Stack
+### 🛠️ Tech Stack
 
-#### Languages
+**Languages & Databases**
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=go,py,java,ts" />
+    <img src="https://skillicons.dev/icons?i=go,py,java,ts,postgres,mysql,sqlite,redis&theme=dark" />
   </a>
 </p>
 
-#### Databases
+**Cloud & DevOps**
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite,redis" />
-  </a>
-</p>
-
-#### Cloud & Edge
-
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,cloudflare,vercel,githubactions" />
+    <img src="https://skillicons.dev/icons?i=docker,cloudflare,vercel,githubactions&theme=dark" />
   </a>
 </p>
 
@@ -43,5 +35,5 @@
 </p>
 
 <p align="left">
- <img src="https://github-readme-activity-graph.vercel.app/graph?username=vespeng&theme=tokyo-night&bg_color=00000000&hide_border=true" alt="Vespeng's GitHub Activity Graph" width="78%" />
+  <img src="https://streak-stats.demolab.com/?user=vespeng&theme=default&hide_border=true" width="48%" />
 </p>
